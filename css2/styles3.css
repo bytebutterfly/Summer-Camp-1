@@ -1,0 +1,71 @@
+/* Reset default margins and paddings */
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Style the header */
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Style the main section */
+main {
+    padding: 40px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Add your custom styles for other elements and sections */
+/* Example custom styles */
+
+/* Style the header */
+header {
+    background-color: #303f9f;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+/* Style the houses for sale section */
+#houses-for-sale {
+    background-color: #f9f9f9;
+    padding: 40px;
+}
+
+/* Style the about us section */
+#about-us {
+    background-color: #fff;
+    padding: 40px;
+}
+
+/* Style the book appointment section */
+#book-appointment {
+    background-color: #f9f9f9;
+    padding: 40px;
+}
+
+/* Style the footer */
+footer {
+    background-color: #212121;
+    padding: 20px;
+}
+
+footer p {
+    font-size: 14px;
+}
